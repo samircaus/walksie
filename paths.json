@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/walksie/:/",
-    "/content/walksie/configuration:/.helix/config.json",
-    "/content/walksie/metadata:/metadata.json"
+    "/content/franklin/:/",
+    "/content/franklin/configuration:/.helix/config.json",
+    "/content/franklin/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/walksie/"
+    "/content/franklin/"
   ]
 }
