@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-xwalk/:/",
-    "/content/aem-xwalk/configuration:/.helix/config.json"
-    "/content/aem-xwalk/metadata:/metadata.json"
+    "/content/walksietalksie/:/",
+    "/content/walksietalksie/configuration:/.helix/config.json"
+    "/content/walksietalksie/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-xwalk/"
+    "/content/walksietalksie/"
   ]
 }
