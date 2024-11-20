@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/franklin/:/",
-    "/content/franklin/configuration:/.helix/config.json",
-    "/content/franklin/metadata:/metadata.json"
+    "/content/aem-xwalk/:/",
+    "/content/aem-xwalk/configuration:/.helix/config.json"
+    "/content/aem-xwalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/franklin/"
+    "/content/aem-xwalk/"
   ]
 }
