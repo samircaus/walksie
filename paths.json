@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/walksietalksie/:/",
-    "/content/walksietalksie/configuration:/.helix/config.json"
+    "/content/walksietalksie/configuration:/.helix/config.json",
     "/content/walksietalksie/metadata:/metadata.json"
   ],
   "includes": [
